@@ -1,0 +1,54 @@
+{
+  "name": "rrpl-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "docker:db": "docker compose up -d db",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "payload": "payload",
+    "generate:types": "payload generate:types",
+    "generate:importmap": "payload generate:importmap",
+    "migrate:create": "payload migrate:create",
+    "migrate": "payload migrate",
+    "seed": "node --env-file=.env --import tsx scripts/seed.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "@payloadcms/db-postgres": "^3.40.0",
+    "@payloadcms/next": "^3.40.0",
+    "@payloadcms/richtext-lexical": "^3.40.0",
+    "@payloadcms/storage-s3": "^3.40.0",
+    "@payloadcms/ui": "^3.40.0",
+    "@react-three/drei": "^10.0.0",
+    "@react-three/fiber": "^9.1.0",
+    "graphql": "^16.10.0",
+    "next": "^15.3.0",
+    "next-intl": "^4.1.0",
+    "payload": "^3.40.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "server-only": "^0.0.1",
+    "sharp": "^0.34.0",
+    "three": "^0.176.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.176.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

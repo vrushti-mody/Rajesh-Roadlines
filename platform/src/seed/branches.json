@@ -1,0 +1,364 @@
+{
+ "branches": [
+  {
+   "town": "Corporate Office",
+   "region": "mumbai",
+   "kind": "corporate",
+   "phones": [
+    "9223258559",
+    "9223200532"
+   ],
+   "address": "1002, 10th Floor, 360 Degree Business Park, next to R Mall, Mulund West, Mumbai 400080",
+   "order": 0
+  },
+  {
+   "town": "Bhiwandi",
+   "region": "mumbai",
+   "kind": "office",
+   "phones": [
+    "9833533893"
+   ],
+   "address": "Gala No. 4, BGTA Compound, near Maharashtra Punjab Hotel, Rehnal, Bhiwandi 421302",
+   "order": 10
+  },
+  {
+   "town": "Vashi",
+   "region": "mumbai",
+   "kind": "office",
+   "phones": [
+    "022-27832564",
+    "8291843467"
+   ],
+   "address": "Plot 156/158, Sector 19-C, Godown 5, 6, 7, behind SBI Bank, Vashi, Navi Mumbai",
+   "order": 20
+  },
+  {
+   "town": "Sakinaka",
+   "region": "mumbai",
+   "kind": "office",
+   "phones": [
+    "022-28522117",
+    "8291843466"
+   ],
+   "address": "A-2 KBR Sadan, near Tiwari Hospital, opposite Gulshan Hotel, Sakinaka, Mumbai 400070",
+   "order": 30
+  },
+  {
+   "town": "Katha Bazar",
+   "region": "mumbai",
+   "kind": "office",
+   "phones": [
+    "022-40590009",
+    "8291843462"
+   ],
+   "address": "399 Narshi Natha Street, Katha Bazar, Mumbai 400009",
+   "order": 40
+  },
+  {
+   "town": "Vasai",
+   "region": "mumbai",
+   "kind": "office",
+   "phones": [
+    "0250-3299188",
+    "9322991351"
+   ],
+   "address": "Disha Roadlines, Gala No. 3, Agarwal Shopping Complex, Sativali Road, Vasai (E) 401208",
+   "order": 50
+  },
+  {
+   "town": "Kankavli",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "8275482197"
+   ],
+   "address": "Usha-Kiran Building, near Panchayat Samiti Office, Mumbai-Goa Road, Kankavli",
+   "order": 60
+  },
+  {
+   "town": "Kudal",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "02362-222728",
+    "9422394342"
+   ],
+   "address": "Sharad & Co., near Ganesh Krupa Hotel, Kudal",
+   "order": 70
+  },
+  {
+   "town": "Sawantwadi",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "02363-272510"
+   ],
+   "address": "M/s. Late Shri Vasudeo Kamat, Vitthal Mandir Road, Sawantwadi",
+   "order": 80
+  },
+  {
+   "town": "Vengurla",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "02366-262039"
+   ],
+   "address": "M/s. Lata Goods Transport, Bhat Wadi, Vengurla",
+   "order": 90
+  },
+  {
+   "town": "Devgad",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "9975865544",
+    "9421052886"
+   ],
+   "address": "Datt Krupa Niwas, behind Panchayat Samiti, Devgad",
+   "order": 100
+  },
+  {
+   "town": "Malvan",
+   "region": "konkan",
+   "kind": "office",
+   "phones": [
+    "02365-252419",
+    "02365-251169",
+    "9423806152"
+   ],
+   "address": "Mr. Shekhar Mungekar, Bharad, Malvan, Sindhudurg",
+   "order": 110
+  },
+  {
+   "town": "Kharepathan",
+   "region": "konkan",
+   "kind": "doorstep",
+   "phones": [],
+   "address": "",
+   "order": 120
+  },
+  {
+   "town": "Tarele",
+   "region": "konkan",
+   "kind": "doorstep",
+   "phones": [],
+   "address": "",
+   "order": 130
+  },
+  {
+   "town": "Kasal",
+   "region": "konkan",
+   "kind": "doorstep",
+   "phones": [],
+   "address": "",
+   "order": 140
+  },
+  {
+   "town": "Ponda (Area Office)",
+   "region": "goa",
+   "kind": "area-office",
+   "phones": [
+    "0832-2318663",
+    "0832-2312141",
+    "9850234559"
+   ],
+   "address": "G/5 Kurtarkar Commercial Arcade, Ponda",
+   "order": 150
+  },
+  {
+   "town": "Ponda",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "9822123906",
+    "9921876644"
+   ],
+   "address": "Gracious Building, near State Bank of India, Ponda",
+   "order": 160
+  },
+  {
+   "town": "Mapusa",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "7208874141"
+   ],
+   "address": "Shop 13, Satt Adhar Building, near Pendem Ground, Mapusa 403507",
+   "order": 170
+  },
+  {
+   "town": "Bicholim",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2362066",
+    "0832-2362533",
+    "9423811190"
+   ],
+   "address": "Opposite Municipal Market, Bicholim",
+   "order": 180
+  },
+  {
+   "town": "Panjim",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "9372627430",
+    "9359653226"
+   ],
+   "address": "Spana Paradise, Shop 12 & 13, Merces-wadi, Panjim 403001",
+   "order": 190
+  },
+  {
+   "town": "Corlim",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2284832",
+    "9326138193"
+   ],
+   "address": "Godown 3, near Mallik Petrol Pump, Corlim 403110",
+   "order": 200
+  },
+  {
+   "town": "Kundaim",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2396071",
+    "9372627431"
+   ],
+   "address": "Plot 263/AM, opposite Goa IDC Canteen, Shop 6, 7, 9, Kundaim",
+   "order": 210
+  },
+  {
+   "town": "Verna",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2783128",
+    "9326138194"
+   ],
+   "address": "Rajesh House, Plot SC 1/45, Phase I, Verna Industrial Estate 403722",
+   "order": 220
+  },
+  {
+   "town": "Margao",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2714312"
+   ],
+   "address": "Opposite Current Soda Factory, Malbhat, Margao",
+   "order": 230
+  },
+  {
+   "town": "Vasco da Gama",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "0832-2511386"
+   ],
+   "address": "Near State Bank of India, Vasco da Gama",
+   "order": 240
+  },
+  {
+   "town": "Sauvordem",
+   "region": "goa",
+   "kind": "office",
+   "phones": [
+    "9923845127",
+    "9422060227"
+   ],
+   "address": "Glady Ferlandies Building, Shop 1, opposite Raj Motors Garage, Sauvordem 403706",
+   "order": 250
+  },
+  {
+   "town": "Ahmedabad (Aslali)",
+   "region": "gujarat",
+   "kind": "office",
+   "phones": [
+    "9374599699"
+   ],
+   "address": "Rajesh House, Plot 136, Aslali Transport Nagar, Aslali Highway Road, Ahmedabad 382427",
+   "order": 260
+  },
+  {
+   "town": "Ahmedabad (Narol)",
+   "region": "gujarat",
+   "kind": "office",
+   "phones": [
+    "9374599699"
+   ],
+   "address": "13/3 Thakor Estate, behind Rahil Weighbridge, opposite Shahwadi Bus Stop, Narol-Aslali Road, Ahmedabad 382405",
+   "order": 270
+  },
+  {
+   "town": "Ankleshwar",
+   "region": "gujarat",
+   "kind": "office",
+   "phones": [
+    "02646-223074",
+    "9377171708"
+   ],
+   "address": "A/2-2507 GIDC Main Road, opposite Asian Paints, Gate 2, GIDC, Ankleshwar",
+   "order": 280
+  },
+  {
+   "town": "Vapi",
+   "region": "gujarat",
+   "kind": "office",
+   "phones": [
+    "9377199969"
+   ],
+   "address": "Golson Chambers, Plot 160/1, Godown 10/11, near Sima Weighbridge, GIDC Phase II, Vapi",
+   "order": 290
+  },
+  {
+   "town": "Dahej",
+   "region": "gujarat",
+   "kind": "representative",
+   "phones": [
+    "9327926855"
+   ],
+   "address": "",
+   "order": 300
+  },
+  {
+   "town": "Hazira",
+   "region": "gujarat",
+   "kind": "representative",
+   "phones": [
+    "8291843470"
+   ],
+   "address": "",
+   "order": 310
+  }
+ ],
+ "aliases": {
+  "panaji": "Panjim",
+  "panjim": "Panjim",
+  "vasco": "Vasco da Gama",
+  "madgaon": "Margao",
+  "margao": "Margao",
+  "navi mumbai": "Vashi",
+  "vashi": "Vashi",
+  "ankaleshwar": "Ankleshwar",
+  "aslali": "Ahmedabad (Aslali)",
+  "narol": "Ahmedabad (Narol)",
+  "ahmedabad": "Ahmedabad (Aslali)",
+  "amdavad": "Ahmedabad (Aslali)",
+  "mulund": "Corporate Office",
+  "saki naka": "Sakinaka",
+  "kankavali": "Kankavli",
+  "savantwadi": "Sawantwadi",
+  "sawantwadi": "Sawantwadi",
+  "bhiwandi": "Bhiwandi",
+  "vasai": "Vasai",
+  "ponda": "Ponda",
+  "kundai": "Kundaim",
+  "kundaim": "Kundaim",
+  "sanvordem": "Sauvordem",
+  "verna": "Verna"
+ }
+}

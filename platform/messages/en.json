@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "Shipper desk",
+    "track": "Track LR",
+    "bookBy": "Book by",
+    "eway": "E-way bill check",
+    "hazmat": "Hazardous pre-check",
+    "pickup": "Pickup & quote",
+    "planner": "Load planner",
+    "branches": "Branches",
+    "updates": "Updates & alerts",
+    "report": "Report a problem",
+    "site": "rajeshrpl.in"
+  },
+  "home": {
+    "title": "Shipper desk",
+    "sub": "Everything you need before, during and after a booking with RRPL.",
+    "alerts": "Route alerts",
+    "news": "Latest updates",
+    "noAlerts": "No route alerts right now."
+  },
+  "track": {
+    "title": "Track your LR",
+    "sub": "Enter the branch code and LR number printed on your consignment note.",
+    "branch": "Branch code",
+    "lr": "LR number",
+    "go": "Track",
+    "looking": "Looking up…"
+  },
+  "bookBy": {
+    "title": "Book by",
+    "sub": "Book before the cut-off and your load moves the same evening.",
+    "from": "Booking from",
+    "to": "Delivering to",
+    "left": "left to book for today's dispatch",
+    "nextDispatch": "Next dispatch",
+    "arrives": "Expected delivery",
+    "indicative": "Indicative times. Confirm with your branch for urgent loads."
+  },
+  "eway": {
+    "title": "E-way bill and documents check",
+    "sub": "See whether your consignment needs an e-way bill and which papers to hand the driver.",
+    "disclaimer": "General guidance based on GST rules and state notifications. Confirm with your CA."
+  },
+  "hazmat": {
+    "title": "Hazardous goods pre-check",
+    "sub": "Check a product by UN number before you book. Have the MSDS ready.",
+    "ph": "UN number or product, e.g. 1263",
+    "go": "Check"
+  },
+  "pickup": {
+    "title": "Pickup and quote request",
+    "sub": "Tell us what is moving and where. Our team will call you back.",
+    "send": "Send request",
+    "sent": "Request received. Reference {ref}. Our team will call you on {phone}."
+  },
+  "planner": {
+    "title": "Load planner",
+    "sub": "Enter your packages, pick a truck and see how the load fits.",
+    "play": "Play loading",
+    "suggest": "Smallest truck that fits everything"
+  },
+  "branches": {
+    "title": "Branches and delivery points",
+    "search": "Search town"
+  },
+  "updates": {
+    "title": "Updates and route alerts",
+    "none": "No updates right now."
+  },
+  "report": {
+    "title": "Report a problem",
+    "sub": "Damaged, short or late delivery? Tell us with photos and we will follow up.",
+    "send": "Send report",
+    "sent": "Report received. Reference {ref}. We will call you on {phone}."
+  },
+  "chat": {
+    "open": "Ask RRPL",
+    "ph": "Ask about branches, cut-offs, e-way bills…",
+    "send": "Send",
+    "hint": "Answers come from RRPL's published information. For rates and bookings, call 022-62284444."
+  },
+  "common": {
+    "call": "Call",
+    "required": "Required",
+    "error": "Something went wrong. Please try again or call 022-62284444."
+  }
+}

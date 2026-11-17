@@ -1,0 +1,16 @@
+# Raw downloads from the old WordPress site (134 MB); kept locally only
+website/_old-site/
+website/_work/
+rrpl.zip
+*.zip
+
+# Platform
+node_modules/
+.next/
+.env
+*.tsbuildinfo
+next-env.d.ts
+platform/media/
+
+# OS
+.DS_Store
